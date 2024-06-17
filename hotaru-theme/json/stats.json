@@ -1,0 +1,11 @@
+{
+"servers":[
+{"name": "Server 01",
+"type":"KVM",
+"host": "",
+"location": "Hong Kong",
+"online4": false,
+"online6": false,
+"region": "HK"}],
+"updated":"1718661356"
+}
